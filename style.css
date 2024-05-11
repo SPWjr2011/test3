@@ -1,0 +1,175 @@
+body{
+    font-family: "Poetsen One", sans-serif;
+}
+#guiser{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(240, 75, 5);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#twistedTemple{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(255, 181, 70);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#royRoger{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(171, 0, 15);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#sherlyTemple{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(233, 30, 0);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#nextPageButton{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color: rgba(255, 102, 0, 0.889);
+    text-align: center;
+    color: black;
+}
+#prevPageButton{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color: rgba(255, 102, 0, 0.889);
+    text-align: center;
+    color: black;
+}
+#nextPageButton2{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color: rgba(255, 102, 0, 0.889);
+    text-align: center;
+    color: black;
+}
+#coke{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(244, 0, 0);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#sprite{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(84, 216, 27);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#rootBeer{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(49, 18, 25);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#fiveAlive{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(251, 255, 0);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#cherrySnowCone{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(249, 25, 25);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#prevPageButton2{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid;
+    background-color: rgba(255, 102, 0, 0.889);
+    text-align: center;
+    color: black;
+}
+#pntButterCup{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(117, 54, 12);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#toastedMarshmellow{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(141, 110, 67);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#caremel{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(197, 117, 6);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#cookieDough{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(84, 51, 5);
+    text-align: center;
+    position: absolute;
+    border: 2px solid;
+    border-radius: 10px;
+}
+#page1{
+    background: linear-gradient(skyblue, rgb(0, 153, 255));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#page2{
+    background: linear-gradient(rgb(7, 211, 55), green);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+#page3{
+    background: linear-gradient(rgb(0, 255, 247), darkcyan);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
